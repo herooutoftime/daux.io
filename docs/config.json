@@ -1,7 +1,7 @@
 {
-    "title": "DAUX.IO",
-    "tagline": "The Easiest Way To Document Your Project",
-    "author": "Justin Walsh",
+    "title": "ANDREAS.BILZ",
+    "tagline": "Informations",
+    "author": "Andreas Bilz",
     "image": "app.png",
     "ignore": {
             "files": ["Work_In_Progress.md"],
@@ -20,8 +20,8 @@
         "float": true,
 
         "repo": "justinwalsh/daux.io",
-        "twitter": ["justin_walsh", "todaymade"],
-        "google_analytics": "UA-12653604-10",
+        "twitter": ["herooutoftime"],
+        "google_analytics": "UA-35908413-2",
         "links": {
             "Download": "https://github.com/justinwalsh/daux.io/archive/master.zip",
             "GitHub Repo": "https://github.com/justinwalsh/daux.io",
